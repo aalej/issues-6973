@@ -1,0 +1,9 @@
+{
+  "functions": [
+    {
+      "source": "api/career-functions",
+      "codebase": "career-functions",
+      "runtime": "nodejs18"
+    }
+  ]
+}
